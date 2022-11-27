@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&6799FF&text=stopyoon&animation=fadeIn&fontColor=ffffff&fontsize=100&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&6799FF&81BEF7&text=stopyoon&animation=fadeIn&fontColor=ffffff&fontsize=100&fontAlignY=50)
 
 <!--
 **just-stopyoon/just-stopyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
