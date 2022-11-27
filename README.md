@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&6799FF&text=stopyoon&animation=fadeIn&fontColor=ffffff&fontsize=100&fontAlignY=50)
 
 <!--
 **just-stopyoon/just-stopyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🌱 I’m currently learning
+![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
+
+### Solved.ac
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=stopyoon)](https://solved.ac/stopyoon)
