@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
- </div>
+</div>
 
+### 👻Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=just-stopyoon&show_icons=true&theme=radical)
 
 ### 💫 Solved.ac
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=stopyoon)](https://solved.ac/stopyoon)
