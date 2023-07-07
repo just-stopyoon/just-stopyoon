@@ -1,5 +1,4 @@
-### 🙌🏻 Hello!(•̀ᴗ•́)و ̑̑ Just-stopyoon ( •̀∀•́ )✧
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&text=STOPYOON">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:28A0FF,100:0078FF&text=STOPYOON&fontColor=000000">
 
 ### 🌱 I’m currently learning...
 
