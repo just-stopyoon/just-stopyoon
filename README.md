@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:28A0FF,100:0078FF&text=STOPYOON&fontColor=000000">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:28A0FF,100:0078FF&text=STOPYOON&fontColor=EBFBFF">
 
 ### 🌱 I’m currently learning...
 
