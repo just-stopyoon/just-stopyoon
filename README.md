@@ -2,7 +2,7 @@
 
 -----
 
-### 🌱 I’m currently studying...
+## 🌱 I’m currently studying...
 <div>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -16,17 +16,23 @@
 </div>
 
 -----
-### 👻 Stats
+## 👻 Stats
 ![stopyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=just-stopyoon&show_icons=true)
 
 -----
 
-### 💫 Solved.ac
+## 💫 Solved.ac
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=stopyoon )](https://solved.ac/stopyoon)
 <a href="https://solved.ac/stopyoon"><img src="http://mazandi.herokuapp.com/api?handle=stopyoon&theme=warm"/></a>
 
 -----
 
-### 😻 Project
-- <b>[FocuStudy](https://github.com/TEAM-TETRIS-Web)</b> (23.09.01 ~ 23.11.13) <br>
-  집중 시간을 체크하고, 경쟁하는 등 서로 공부 의욕 상승에 도움을 주는 웹
+## 😻 Project
+### <b>[FocuStudy](https://github.com/TEAM-TETRIS-Web)</b> (23.09.01 ~ 23.11.13)
+   <img src="https://img.shields.io/badge/UI/UX design-FFFFFF"> <img src="https://img.shields.io/badge/Front-FFFFFF">
+  <br>집중 시간을 체크하고, 경쟁하는 등 서로 공부 의욕 상승에 도움을 주는 웹
+
+### <b>[mosAIc](https://github.com/23-2-WINTER-PROJECT)</b> (24.01.08 ~ 24.03.01)
+   <img src="https://img.shields.io/badge/UI/UX design-FFFFFF"> <img src="https://img.shields.io/badge/Front-FFFFFF">
+  <br>
+  얼굴 사진을 첨부하면 자동으로 얼굴 부분을 인식해 얼굴 부분을 모자이크 해주는 웹
