@@ -29,10 +29,10 @@
 
 ## 😻 Project
 ### <b>[FocuStudy](https://github.com/TEAM-TETRIS-Web)</b> (23.09.01 ~ 23.11.13)
-   <img src="https://img.shields.io/badge/UI/UX design-FFFFFF"> <img src="https://img.shields.io/badge/Front-FFFFFF">
+   <img src="https://img.shields.io/badge/UI/UX design-C8FFFF"> <img src="https://img.shields.io/badge/Front-C8FFFF">
   <br>집중 시간을 체크하고, 경쟁하는 등 서로 공부 의욕 상승에 도움을 주는 웹
 
 ### <b>[mosAIc](https://github.com/23-2-WINTER-PROJECT)</b> (24.01.08 ~ 24.03.01)
-   <img src="https://img.shields.io/badge/UI/UX design-FFFFFF"> <img src="https://img.shields.io/badge/Front-FFFFFF">
+   <img src="https://img.shields.io/badge/UI/UX design-C8FFFF"> <img src="https://img.shields.io/badge/Front-C8FFFF">
   <br>
   얼굴 사진을 첨부하면 자동으로 얼굴 부분을 인식해 얼굴 부분을 모자이크 해주는 웹
