@@ -32,6 +32,10 @@
    <img src="https://img.shields.io/badge/UI/UX design-C8FFFF"> <img src="https://img.shields.io/badge/Front-C8FFFF">
   <br>집중 시간을 체크하고, 경쟁하는 등 서로 공부 의욕 상승에 도움을 주는 웹
 
+### <b>[마법사 오즈와 코딩 여행](https://github.com/SejongCodingMate)</b> (23.09.01 ~ 23.11.13)
+   <img src="https://img.shields.io/badge/UI/UX design-C8FFFF">
+  <br>초등, 중학교 학생들을 위한 코딩 교육용 게임
+
 ### <b>[mosAIc](https://github.com/23-2-WINTER-PROJECT)</b> (24.01.08 ~ 24.03.01)
    <img src="https://img.shields.io/badge/UI/UX design-C8FFFF"> <img src="https://img.shields.io/badge/Front-C8FFFF">
   <br>
