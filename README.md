@@ -1,6 +1,6 @@
 
 <div align = "center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:28A0FF,100:0078FF&text=STOPYOON&fontColor=FFFFFF&animation=fadeIn">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:28A0FF,100:0078FF&text=STOPYOON&fontColor=35637C&animation=fadeIn">
    
    ## 🧅 About ME <br>
    | 소속 | 기간 | 
