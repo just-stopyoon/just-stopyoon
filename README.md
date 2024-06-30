@@ -1,33 +1,42 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:28A0FF,100:0078FF&text=STOPYOON&fontColor=FFFFFF&animation=fadeIn">
 
-<div>
-
-## 🌱 I’m currently studying... [![My Skills](https://skillicons.dev/icons?i=c,py,html,css,js,react,figma,ps,)](https://skillicons.dev)
-
-
-
-</div>
-
------
-## 👻 Stats
-![stopyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=just-stopyoon&show_icons=true)
-
------
-
-## 💫 Solved.ac
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=stopyoon )](https://solved.ac/stopyoon)
-<a href="https://solved.ac/stopyoon"><img src="http://mazandi.herokuapp.com/api?handle=stopyoon&theme=warm"/></a>
-
------
-
-## 😻 Project
-### <b>-[FocuStudy](https://github.com/TEAM-TETRIS-Web)</b> (23.09.01 ~ 23.11.13)
-   <img src="https://img.shields.io/badge/UI/UX design-C8FFFF"> <img src="https://img.shields.io/badge/Front-C8FFFF">
-  <br>집중 시간을 체크하고, 경쟁하는 등 서로 공부 의욕 상승에 도움을 주는 웹 서비스
-
-### <b>-[마법사 오즈와 코딩 여행](https://github.com/SejongCodingMate)</b> (23.09.01 ~ 23.12.14)
-   <img src="https://img.shields.io/badge/UI/UX design-C8FFFF"><br>초등, 중학교 학생들을 위한 코딩 교육용 게임
+<div align = "center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:28A0FF,100:0078FF&text=STOPYOON&fontColor=FFFFFF&animation=fadeIn">
    
-### <b>-[mosAIc](https://github.com/23-2-WINTER-PROJECT)</b> (24.01.08 ~ 24.03.01)
-   <img src="https://img.shields.io/badge/UI/UX design-C8FFFF"> <img src="https://img.shields.io/badge/Front-C8FFFF">
-  <br>카테고리 기반 자동 인식 모자이크 웹 서비스
+   ## 🧅 About ME <br>
+   | 소속 | 기간 | 
+   |:---:|:---:|
+   | [Dept. of Intelligent Mechatronic Engineering](http://imc.sejong.ac.kr/page/sub2_1) | (22.03 ~ ing) |
+   | [멋쟁이 사자처럼 12기 [기획/디자인 트랙]](https://likelion12.simple.ink/) | (24.03 ~ ing) |
+   | [LG Aimers](https://www.lgaimers.ai/) | (24.07 ~ ing) |
+
+   <br>
+   
+   ## 🌱 I’m currently studying...
+   <p align="center">
+     <a href="https://skillicons.dev">
+       <img src="https://skillicons.dev/icons?i=c,py,html,css,js,react,figma,ps" />
+     </a>
+   </p>
+
+   <br>
+   
+   ## 😻 Project
+   
+   | 기간 | 프로젝트명 | 설명 | 역할 | 
+   |:---:|:---:|:---:|:---:|
+   | 22.11 ~ 22.12 | <b>[BINARY-ESG](https://github.com/LeeJinSoo-BIN/BINARY-ESG)</b> | 다중 이용 시설의 효율적인 자석 관리 웹 서비스 | <img src="https://img.shields.io/badge/UI/UX design-35637C"> |
+   | 23.09 ~ 23.11 | <b>[FocuStudy](https://github.com/TEAM-TETRIS-Web)</b> | 집중 시간을 체크하여 공부 의욕 상승에 도움 주는 웹 서비스 | <img src="https://img.shields.io/badge/Front-35637C">  <img src="https://img.shields.io/badge/UI/UX design-35637C"> |
+   | 23.09 ~ 23.12 | <b>[마법사 오즈와 코딩 여행](https://github.com/SejongCodingMate)</b> |  초등, 중학교 학생들을 위한 코딩 교육용 웹 게임 | <img src="https://img.shields.io/badge/UI/UX design-35637C">
+   | 24.01 ~ 24.06 | <b>[mosAIc](https://github.com/23-2-WINTER-PROJECT)</b> | 카테고리 기반 자동 인식 모자이크 웹 서비스 | <img src="https://img.shields.io/badge/Front-35637C"> <img src="https://img.shields.io/badge/UI/UX design-35637C"> |
+   
+   <br>
+   
+   ## 🌀 Velog
+   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=just-stopyoon)]((https://velog.io/@just-stopyoon))
+   
+   <br>
+   
+   ## 💫 Solved.ac
+   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=stopyoon )](https://solved.ac/stopyoon)
+   <a href="https://solved.ac/stopyoon"><img src="http://mazandi.herokuapp.com/api?handle=stopyoon&theme=warm"/></a>
+</div>
