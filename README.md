@@ -14,7 +14,7 @@
    ## 🌱 I’m currently studying...
    <p align="center">
      <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=c,py,html,css,js,react,figma,ps" />
+       <img src="https://skillicons.dev/icons?i=c,py,html,css,js,react,figma,ps,unity" />
      </a>
    </p>
 
