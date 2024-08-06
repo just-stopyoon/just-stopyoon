@@ -28,7 +28,8 @@
    | 23.09 ~ 23.11 | <b>[FocuStudy](https://github.com/TEAM-TETRIS-Web)</b> | 집중 시간을 체크하여 공부 의욕 상승에 도움 주는 웹 서비스 | <img src="https://img.shields.io/badge/Front-35637C">  <img src="https://img.shields.io/badge/UI/UX design-35637C"> |
    | 23.09 ~ 23.12 | <b>[마법사 오즈와 코딩 여행](https://github.com/SejongCodingMate)</b> |  초등, 중학교 학생들을 위한 코딩 교육용 웹 게임 | <img src="https://img.shields.io/badge/UI/UX design-35637C">
    | 24.01 ~ 24.06 | <b>[mosAIc](https://github.com/23-2-WINTER-PROJECT)</b> | 카테고리 기반 자동 인식 모자이크 웹 서비스 | <img src="https://img.shields.io/badge/Front-35637C"> <img src="https://img.shields.io/badge/UI/UX design-35637C"> |
-   
+   | 24.07 ~ 24.08 | <b>[일단 나와](https://github.com/LIKELIONTON-2024)</b> | 은둔, 고립 청년을 위한 간편한 외출 습관화 앱 | <img src="https://img.shields.io/badge/PM-35637C"> <img src="https://img.shields.io/badge/UI/UX design-35637C"> |
+
    <br>
    
    ## 🌀 Velog
