@@ -7,7 +7,7 @@
    |:---:|:---:|
    | [Dept. of Intelligent Mechatronic Engineering](http://imc.sejong.ac.kr/page/sub2_1) | (22.03 ~ ing) |
    | [멋쟁이 사자처럼 12기 [기획/디자인 트랙]](https://likelion12.simple.ink/) | (24.03 ~ ing) |
-   | [LG Aimers 5기](https://www.lgaimers.ai/) | (24.07 ~ ing) |
+   | [LG Aimers 5기](https://www.lgaimers.ai/) | (24.07 ~ 24.08) |
 
    <br>
    
