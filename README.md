@@ -6,7 +6,7 @@
    | 소속 | 기간 | 
    |:---:|:---:|
    | [Dept. of Intelligent Mechatronic Engineering](http://imc.sejong.ac.kr/page/sub2_1) | (22.03 ~ ing) |
-   | [멋쟁이 사자처럼 12기 [기획/디자인 트랙]](https://likelion12.simple.ink/) | (24.03 ~ ing) |
+   | [멋쟁이 사자처럼 12기 [기획/디자인 트랙]](https://likelion12.simple.ink/) | (24.03 ~ 24.12) |
    | [LG Aimers 5기](https://www.lgaimers.ai/) | (24.07 ~ 24.08) |
 
    <br>
@@ -24,18 +24,14 @@
    
    | 기간 | 프로젝트명 | 설명 | 담당 | 
    |:---:|:---:|:---:|:---:|
-   | 22.11 ~ 22.12 | <b>[BINARY-ESG](https://github.com/LeeJinSoo-BIN/BINARY-ESG)</b> | 다중 이용 시설의 효율적인 좌석 관리 웹 서비스 | <img src="https://img.shields.io/badge/UI/UX design-35637C"> |
-   | 23.09 ~ 23.11 | <b>[FocuStudy](https://github.com/TEAM-TETRIS-Web)</b> | 집중 시간을 체크하여 공부 의욕 상승에 도움 주는 웹 서비스 | <img src="https://img.shields.io/badge/Front-35637C">  <img src="https://img.shields.io/badge/UI/UX design-35637C"> |
+   | 22.11 ~ 22.12 | <b>[BINARY-ESG](https://github.com/LeeJinSoo-BIN/BINARY-ESG)</b> | 다중 이용 시설의 효율적인 좌석 관리 웹 | <img src="https://img.shields.io/badge/UI/UX design-35637C"> |
+   | 23.09 ~ 23.11 | <b>[FocuStudy](https://github.com/TEAM-TETRIS-Web)</b> | 집중 시간을 체크하여 공부 의욕 상승에 도움 주는 웹 | <img src="https://img.shields.io/badge/FE-35637C">  <img src="https://img.shields.io/badge/UI/UX design-35637C"> |
    | 23.09 ~ 23.12 | <b>[마법사 오즈와 코딩 여행](https://github.com/SejongCodingMate)</b> |  초등, 중학교 학생들을 위한 코딩 교육용 웹 게임 | <img src="https://img.shields.io/badge/UI/UX design-35637C">
-   | 24.01 ~ 24.06 | <b>[mosAIc](https://github.com/23-2-WINTER-PROJECT)</b> | 카테고리 기반 자동 인식 모자이크 웹 서비스 | <img src="https://img.shields.io/badge/Front-35637C"> <img src="https://img.shields.io/badge/UI/UX design-35637C"> |
+   | 24.01 ~ 24.06 | <b>[mosAIc](https://github.com/23-2-WINTER-PROJECT)</b> | 카테고리 기반 자동 인식 모자이크 웹 | <img src="https://img.shields.io/badge/FE-35637C"> <img src="https://img.shields.io/badge/UI/UX design-35637C"> |
    | 24.07 ~ 24.08 | <b>[일단 나와](https://github.com/LIKELIONTON-2024)</b> | 은둔, 고립 청년을 위한 간편한 외출 습관화 앱 | <img src="https://img.shields.io/badge/PM-35637C"> <img src="https://img.shields.io/badge/UI/UX design-35637C"> |
-   | 24.07 ~ ing | <b>[snapINFO](https://github.com/just-stopyoon/snapINFO-Front-end)</b> | 원하는 스크린샷 속 정보를 자동으로 추출하여 정리해주는 앱 | <img src="https://img.shields.io/badge/Front-35637C"> <img src="https://img.shields.io/badge/UI/UX design-35637C"> |
-   | 24.09 ~ ing | <b>[buddyya](https://github.com/buddy-ya)</b> | 교내 한국인 학생 X 외국인 학생 매칭, 교류 앱 | <img src="https://img.shields.io/badge/PM-35637C"> |
-   
-   <br>
-   
-   ## 🌀 Velog
-   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=just-stopyoon)]((https://velog.io/@just-stopyoon))
+   | 24.07 ~ 24.12 | <b>[snapINFO](https://github.com/just-stopyoon/snapINFO-Front-end)</b> | 원하는 스크린샷 속 정보를 자동으로 추출하여 정리해주는 앱 | <img src="https://img.shields.io/badge/FE-35637C"> <img src="https://img.shields.io/badge/UI/UX design-35637C"> |
+   | 24.09 ~ 24.12 | <b>[buddyya](https://github.com/buddy-ya)</b> | 교내 한국인 학생 X 외국인 학생 매칭, 교류 앱 | <img src="https://img.shields.io/badge/PM-35637C"> |
+   | 24.12 ~ 24.12 | <b>[세종무물](https://github.com/just-stopyoon/snapINFO-Front-end)</b> | 교수, 학생 학습 커뮤니티 형성 및 맞춤형 멘토링 웹  | <img src="https://img.shields.io/badge/FE-35637C"> <img src="https://img.shields.io/badge/UI/UX design-35637C"> |
    
    <br>
    
