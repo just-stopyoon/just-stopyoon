@@ -1,8 +1,16 @@
 
 <div align = "center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:28A0FF,100:0078FF&text=STOPYOON&fontColor=87CEEB&animation=fadeIn">
+<!--    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:28A0FF,100:0078FF&text=STOPYOON&fontColor=87CEEB&animation=fadeIn">
+    -->
    
    ## 🧅 About ME <br>
+   
+   <p> 안녕하세요! 사용자가 편리한 기능을 구현하고 디자인하고 싶은 개발자, 정지윤입니다. <br>
+   저는 프론트엔드 개발, UI/UX 디자인, PM에 관심 있습니다.
+   </p>
+   
+   <br>
+   
    | 소속 | 기간 | 
    |:---:|:---:|
    | [Dept. of Intelligent Mechatronic Engineering](http://imc.sejong.ac.kr/page/sub2_1) | (22.03 ~ ing) |
