@@ -32,8 +32,7 @@
    | 24.07 ~ 24.12 | <b>[snapINFO](https://github.com/just-stopyoon/snapINFO-Front-end)</b> | 원하는 스크린샷 속 정보를 자동으로 추출하여 정리해주는 앱 | <img src="https://img.shields.io/badge/FE-35637C"> <img src="https://img.shields.io/badge/UI/UX design-35637C"> |
    | 24.09 ~ 24.12 | <b>[buddyya](https://github.com/buddy-ya)</b> | 교내 한국인 학생 X 외국인 학생 매칭, 교류 앱 | <img src="https://img.shields.io/badge/PM-35637C"> |
    | 24.12 ~ 24.12 | <b>[세종무물](https://github.com/just-stopyoon/snapINFO-Front-end)</b> | 교수, 학생 학습 커뮤니티 형성 및 맞춤형 멘토링 웹  | <img src="https://img.shields.io/badge/FE-35637C"> <img src="https://img.shields.io/badge/UI/UX design-35637C"> |
-   | 25.01 ~ 25.01 | <b>[WIT](https://github.com/just-stopyoon/snapINFO-Front-end)</b> | 사진 한 장으로 칼로리를 간편하게 계산해주는 앱 |![image](https://github.com/user-attachments/assets/b0cc2314-5455-40b4-9b4c-fcfc167e8123)
-  | <img src="https://img.shields.io/badge/FE-35637C"> <img src="https://img.shields.io/badge/UI/UX design-35637C"> |
+   | 25.01 ~ 25.01 | <b>[WIT](https://github.com/just-stopyoon/snapINFO-Front-end)</b> | 사진 한 장으로 칼로리를 간편하게 계산해주는 앱 | <img src="https://img.shields.io/badge/FE-35637C"> <img src="https://img.shields.io/badge/UI/UX design-35637C"> |
    
    <br>
    
