@@ -41,6 +41,7 @@
    | 24.09 ~ 24.12 | <b>[buddyya](https://github.com/buddy-ya)</b> | 교내 한국인 학생 X 외국인 학생 매칭, 교류 앱 | <img src="https://img.shields.io/badge/PM-35637C"> |
    | 24.12 ~ 24.12 | <b>[세종무물](https://github.com/just-stopyoon/snapINFO-Front-end)</b> | 교수, 학생 학습 커뮤니티 형성 및 맞춤형 멘토링 웹  | <img src="https://img.shields.io/badge/FE-35637C"> <img src="https://img.shields.io/badge/UI/UX design-35637C"> |
    | 25.01 ~ 25.01 | <b>[WIT](https://github.com/just-stopyoon/snapINFO-Front-end)</b> | 사진 한 장으로 칼로리를 간편하게 계산해주는 앱 | <img src="https://img.shields.io/badge/FE-35637C"> <img src="https://img.shields.io/badge/UI/UX design-35637C"> |
+   | 25.03 ~ 25.08 | <b>[MINDI](https://github.com/just-stopyoon/25-Capstone-FE)</b> | 대화기반 인공지능 치매 케어 서비스 | <img src="https://img.shields.io/badge/FE-35637C"> <img src="https://img.shields.io/badge/UI/UX design-35637C"> |
    
    <br>
    
