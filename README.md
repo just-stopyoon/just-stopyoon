@@ -13,7 +13,8 @@
    
    | 소속 | 기간 | 
    |:---:|:---:|
-   | [Dept. of Intelligent Mechatronic Engineering](http://imc.sejong.ac.kr/page/sub2_1) | (22.03 ~ ing) |
+   | [신한커리어업 11기 [UXUI 직무] | (26.03 ~ 26.04)|
+   | [Dept. of Intelligent Mechatronic Engineering](http://imc.sejong.ac.kr/page/sub2_1) | (22.03 ~ 26.02) |
    | [멋쟁이 사자처럼 12기 [기획/디자인 트랙]](https://likelion12.simple.ink/) | (24.03 ~ 24.12) |
    | [LG Aimers 5기](https://www.lgaimers.ai/) | (24.07 ~ 24.08) |
 
