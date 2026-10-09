@@ -22,9 +22,10 @@
    
    ## 🌱 I’m currently studying...
    <p align="center">
-     <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=c,py,html,css,js,react,figma,ps,unity" />
-     </a>
+     <img src="https://img.shields.io/badge/User%20Research-35637C" alt="User Research" />
+     <img src="https://img.shields.io/badge/Product%20Strategy-35637C" alt="Product Strategy" />
+     <img src="https://img.shields.io/badge/Product%20Analytics-35637C" alt="Product Analytics" />
+     <img src="https://img.shields.io/badge/UX%20Design-35637C" alt="UX Design" />
    </p>
 
    <br>
